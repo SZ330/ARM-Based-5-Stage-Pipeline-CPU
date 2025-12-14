@@ -4,6 +4,7 @@
 This repository contains an **ARM-based 5-stage pipelined CPU** implemented in **SystemVerilog** for EE 469.  
 The design follows a classic 5-stage pipeline and focuses on **data forwarding** to resolve data hazards.
 
+---
 ## Pipeline Stages
 The processor implements the following pipeline stages:
 
