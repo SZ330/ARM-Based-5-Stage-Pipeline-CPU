@@ -26,8 +26,11 @@ The processor implements the following pipeline stages:
 
 ## Project Context & Attribution
 This project was completed as part of: **EE 469 – Computer Architecture I**
+
 **University of Washington**
+
 Instructor: **Professor Scott Hauck**
+
 This repository is shared for **educational and portfolio purposes only**.
 
 ---
