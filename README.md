@@ -1,7 +1,7 @@
 # ARM-Based 5-Stage Pipelined CPU
 
 ## Overview
-This repository contains an **ARM-based 5-stage pipelined CPU** implemented in **SystemVerilog** as part of EE 469.  
+This repository contains an **ARM-based 5-stage pipelined CPU** implemented in **SystemVerilog** for EE 469.  
 The design follows a classic 5-stage pipeline and focuses on **data forwarding** to resolve data hazards.
 
 ## Pipeline Stages
@@ -28,8 +28,6 @@ This project was completed as part of:
 **EE 469 – Computer Architecture I**  
 *University of Washington*  
 Instructor: *Professor Scott Hauck*
-
-
 This repository is shared for **educational and portfolio purposes only**.
 
 ---
@@ -38,8 +36,6 @@ This repository is shared for **educational and portfolio purposes only**.
 If you are currently enrolled in EE 469 or a similar course:
 
 **Do not copy or submit this code as your own work.**  
-Doing so may violate your institution’s academic integrity policies.
+Doing so may violate academic integrity policies.
 
 ---
-
-## Repository Structure
